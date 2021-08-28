@@ -8,3 +8,5 @@ This is a first pass.
 You could do some preprocessing and attempt to link the various titles to character names : Duke Leto Atreides, Baron Vladimir Harkonnen, etc.
 
 However, I thought it would be interesting to take a first version where the clusters might suggest the context that formal titles were used as opposed to the more familiar names.  Although I don't think even Feyd called the Baron 'Vlad'.
+
+Another step would be to take out the organisations and analyse those separately from the people.
